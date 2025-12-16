@@ -1,4 +1,4 @@
-package application
+package my_package_kek
 
 import "fmt"
 
